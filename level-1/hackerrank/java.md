@@ -8,9 +8,17 @@
 - ***Object Oriented Programming*** `10 problems`
 - ***Advanced***                    `10 problems`
 
-## HackerRank - Introduction `15 problems` [`Solutions`](/level-1/hackerrank/java/solutions/introduction.md)
+## HackerRank - Introduction `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/welcome-to-java/problem">Welcome to Java!</a></th>
@@ -38,14 +46,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/java-currency-formatter/problem">Java Currency Formatter</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Strings and BigNumber `15 problems` [`Solutions`](/level-1/hackerrank/java/solutions/strings-bignumber.md)
+## HackerRank - Strings and BigNumber `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/java-strings-introduction/problem">Java Strings Introduction</a></th>
@@ -78,9 +93,17 @@
     </tbody>
 </table>
 
-## HackerRank - Data Structures `15 problems` [`Solutions`](/level-1/hackerrank/java/solutions/data-structures.md)
+## HackerRank - Data Structures `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/java-1d-array-introduction/problem">Java 1D Array</a></th>
@@ -112,14 +135,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/java-priority-queue/problem">Java Priority Queue</a></th>
-<th align="center" width="50px">16</th><th align="left" width="550px"></th>
         </tr>
     </tbody>
 </table>
 
-## HackerRank - Object Oriented Programming `10 problems` [`Solutions`](/level-1/hackerrank/java/solutions/object-oriented-programming.md)
+## HackerRank - Object Oriented Programming `10 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/java-inheritance-1/problem">Java Inheritance I</a></th>
@@ -144,9 +174,17 @@
     </tbody>
 </table>
 
-## HackerRank - Advanced `10 problems` [`Solutions`](/level-1/hackerrank/java/solutions/advanced.md)
+## HackerRank - Advanced `10 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/simple-addition-varargs/problem">Java Varargs - Simple Addition</a></th>
