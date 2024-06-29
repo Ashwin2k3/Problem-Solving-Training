@@ -7,7 +7,7 @@
 - ***2020-2021 Regular Contests***     `25 problems`
 - ***2022-2023 Regular Contests***     `35 problems`
 
-## AtCoder - 2016-2017 Regular Contests `30 problems`
+## AtCoder - 2016-2017 Regular Contests
 
 <table>
     <head>
@@ -86,7 +86,7 @@
     </tbody>
 </table>
 
-## AtCoder - 2018-2019 Regular Contests `15 problems`
+## AtCoder - 2018-2019 Regular Contests
 
 <table>
     <head>
@@ -133,7 +133,7 @@
     </tbody>
 </table>
 
-## AtCoder - 2020-2021 Regular Contests `25 problems`
+## AtCoder - 2020-2021 Regular Contests
 
 <table>
     <head>
@@ -200,7 +200,7 @@
     </tbody>
 </table>
 
-## AtCoder - 2022-2023 Regular Contests `35 problems`
+## AtCoder - 2022-2023 Regular Contests
 
 <table>
     <head>
