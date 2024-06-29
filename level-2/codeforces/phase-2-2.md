@@ -8,9 +8,17 @@
 - ***Greedy***         `30 problems`
 - ***Brute Force***    `10 problems`
 
-## Codeforces - Data Structure `20 problems`
+## Codeforces - Data Structure
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/387/B">Round 227 B</a></th>
@@ -59,9 +67,17 @@
     </tbody>
 </table>
 
-## Codeforces - String `25 problems`
+## Codeforces - String
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/143/B">Round 102 B</a></th>
@@ -114,9 +130,17 @@
     </tbody>
 </table>
 
-## Codeforces - Mathematics `35 problems`
+## Codeforces - Mathematics
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/186/B">Round 118 B</a></th>
@@ -189,9 +213,17 @@
     </tbody>
 </table>
 
-## Codeforces - Greedy `30 problems`
+## Codeforces - Greedy
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/302/B">Round 182 B</a></th>
@@ -256,9 +288,17 @@
     </tbody>
 </table>
 
-## Codeforces - Brute Force `10 problems`
+## Codeforces - Brute Force
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/problemset/problem/366/B">Round 214 B</a></th>
