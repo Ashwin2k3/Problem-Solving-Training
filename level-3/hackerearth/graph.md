@@ -8,9 +8,17 @@
 - ***Depth First Search II***           `30 problems`
 - ***Depth First Search III***          `20 problems`
 
-## HackerEarth - Graph and Topological Sort `35 problems`
+## HackerEarth - Graph and Topological Sort
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/so-np-c559f406/">so np</a></th>
@@ -83,9 +91,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Breadth First Search `35 problems`
+## HackerEarth - Breadth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/">monk and the islands</a></th>
@@ -161,14 +177,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">37</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/kingdom-of-ayutthaya/">kingdom of ayutthaya</a></th>
-<th align="center" width="50px">38</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Depth First Search I `30 problems`
+## HackerEarth - Depth First Search I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/range-query-2/">range query 2</a></th>
@@ -233,9 +256,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Depth First Search II `30 problems`
+## HackerEarth - Depth First Search II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/destructive-tree-explosion-45170564/">destructive tree explosion</a></th>
@@ -300,9 +331,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Depth First Search III `20 problems`
+## HackerEarth - Depth First Search III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/big-p-and-punishment-5/">big p and punishment 5</a></th>
