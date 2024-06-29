@@ -8,7 +8,7 @@
 - ***Structs and Classes***          `15 problems`
 - ***Implementation***               `15 problems`
 
-## HackerRank - Introduction `20 problems`
+## HackerRank - Introduction
 
 <table>
     <head>
@@ -62,7 +62,7 @@
     </tbody>
 </table>
 
-## HackerRank - Arrays and Strings `10 problems`
+## HackerRank - Arrays and Strings
 
 <table>
     <head>
@@ -93,7 +93,7 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries `10 problems`
+## HackerRank - Functions and Libraries
 
 <table>
     <head>
@@ -135,7 +135,7 @@
     </tbody>
 </table>
 
-## HackerRank - Structs and Classes `15 problems`
+## HackerRank - Structs and Classes
 
 <table>
     <head>
@@ -185,7 +185,7 @@
     </tbody>
 </table>
 
-## HackerRank - Implementation `15 problems`
+## HackerRank - Implementation
 
 <table>
     <head>
