@@ -7,9 +7,17 @@
 - ***Educational Rounds III*** `20 contests`
 - ***Educational Rounds IV***  `20 contests`
 
-## Codeforces - Educational Rounds I `20 contests`
+## Codeforces - Educational Rounds I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/598">Educational Round 1</a></th>
@@ -54,9 +62,17 @@
     </tbody>
 </table>
 
-## Codeforces - Educational Rounds II `20 contests`
+## Codeforces - Educational Rounds II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/803">Educational Round 20</a></th>
@@ -101,9 +117,17 @@
     </tbody>
 </table>
 
-## Codeforces - Educational Rounds III `20 contests`
+## Codeforces - Educational Rounds III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/954">Educational Round 40</a></th>
@@ -148,9 +172,17 @@
     </tbody>
 </table>
 
-## Codeforces - Educational Rounds IV `20 contests`
+## Codeforces - Educational Rounds IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1117">Educational Round 60</a></th>
