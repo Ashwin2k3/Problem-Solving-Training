@@ -8,7 +8,7 @@
 - ***Object Oriented Programming*** `10 problems`
 - ***Advanced***                    `10 problems`
 
-## HackerRank - Introduction `15 problems`
+## HackerRank - Introduction
 
 <table>
     <head>
@@ -50,7 +50,7 @@
     </tbody>
 </table>
 
-## HackerRank - Strings and BigNumber `15 problems`
+## HackerRank - Strings and BigNumber
 
 <table>
     <head>
@@ -93,7 +93,7 @@
     </tbody>
 </table>
 
-## HackerRank - Data Structures `15 problems`
+## HackerRank - Data Structures
 
 <table>
     <head>
@@ -139,7 +139,7 @@
     </tbody>
 </table>
 
-## HackerRank - Object Oriented Programming `10 problems`
+## HackerRank - Object Oriented Programming
 
 <table>
     <head>
@@ -174,7 +174,7 @@
     </tbody>
 </table>
 
-## HackerRank - Advanced `10 problems`
+## HackerRank - Advanced
 
 <table>
     <head>
