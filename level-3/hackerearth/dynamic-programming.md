@@ -8,9 +8,17 @@
 - ***Dynamic Programming 2D II***           `25 problems`
 - ***Dynamic Programming and Bit Masking*** `10 problems`
 
-## HackerEarth - Dynamic Programming `25 problems`
+## HackerEarth - Dynamic Programming
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/win-the-game/">win the game</a></th>
@@ -67,9 +75,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming II `25 problems`
+## HackerEarth - Dynamic Programming II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prime-numbers-again/">prime numbers again</a></th>
@@ -126,9 +142,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming 2D I `25 problems`
+## HackerEarth - Dynamic Programming 2D I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/palindromic-sub-string-length/">palindromic sub string length</a></th>
@@ -176,14 +200,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/next-lucky-number/">next lucky number</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming 2D II `25 problems`
+## HackerEarth - Dynamic Programming 2D II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/longest-increasing-path-9/">longest increasing path 9</a></th>
@@ -232,9 +263,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Dynamic Programming and Bit Masking `10 problems`
+## HackerEarth - Dynamic Programming and Bit Masking
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/fifth-1/">fifth 1</a></th>
@@ -262,7 +301,6 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/misha-and-boxes-b7e70bc6/">misha and boxes</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
