@@ -7,9 +7,17 @@
 - ***Graph***                  `20 problems`
 - ***Backtracking***           `15 problems`
 
-## LeetCode - Breadth First Search `20 problems`
+## LeetCode - Breadth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/number-of-operations-to-make-network-connected/">number of operations to make network connected</a></th>
@@ -54,9 +62,17 @@
     </tbody>
 </table>
 
-## LeetCode - Depth First Search `20 problems`
+## LeetCode - Depth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shopping-offers/">shopping offers</a></th>
@@ -105,9 +121,17 @@
     </tbody>
 </table>
 
-## LeetCode - Graph `20 problems`
+## LeetCode - Graph
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/flower-planting-with-no-adjacent/">flower planting with no adjacent</a></th>
@@ -152,9 +176,17 @@
     </tbody>
 </table>
 
-## LeetCode - Backtracking `15 problems`
+## LeetCode - Backtracking
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/word-pattern-ii/">word pattern ii</a></th>
