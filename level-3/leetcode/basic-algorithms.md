@@ -9,9 +9,17 @@
 - ***Greedy II***              `20 problems`
 - ***Greedy III***             `10 problems`
 
-## LeetCode - Binary Search `20 problems`
+## LeetCode - Binary Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/">minimum limit of balls in a bag</a></th>
@@ -56,9 +64,17 @@
     </tbody>
 </table>
 
-## LeetCode - Sorting I `15 problems`
+## LeetCode - Sorting I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/">people whose list of favorite companies is not a subset of another list</a></th>
@@ -91,9 +107,17 @@
     </tbody>
 </table>
 
-## LeetCode - Sorting II `15 problems`
+## LeetCode - Sorting II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/">least number of unique integers after k removals</a></th>
@@ -126,9 +150,17 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy I `20 problems`
+## LeetCode - Greedy I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-happy-string/">longest happy string</a></th>
@@ -177,9 +209,17 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy II `20 problems`
+## LeetCode - Greedy II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-moves-to-make-array-complementary/">minimum moves to make array complementary</a></th>
@@ -228,9 +268,17 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy III `10 problems`
+## LeetCode - Greedy III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/">put boxes into the warehouse ii</a></th>
