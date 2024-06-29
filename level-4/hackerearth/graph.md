@@ -8,9 +8,17 @@
 - ***Spanning Tree***           `35 problems`
 - ***Min Cost and Max Flow***   `30 problems`
 
-## HackerEarth - Depth First Search `40 problems`
+## HackerEarth - Depth First Search
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/separating-numbers-6fe976a9/">separating numbers</a></th>
@@ -95,9 +103,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Shortest Path I `25 problems`
+## HackerEarth - Shortest Path I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/saving-ms-w-7b3d36df/">saving ms w</a></th>
@@ -154,9 +170,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Shortest Path II `20 problems`
+## HackerEarth - Shortest Path II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/minimizing-path-cost/">minimizing path cost</a></th>
@@ -201,9 +225,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Spanning Tree `40 problems`
+## HackerEarth - Spanning Tree
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/friendless-dr-sheldon-cooper-14/">friendless dr sheldon cooper 14</a></th>
@@ -284,9 +316,17 @@
     </tbody>
 </table>
 
-## HackerRank - Min Cost and Max Flow `30 problems`
+## HackerRank - Min Cost and Max Flow
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/graphs/maximum-flow/practice-problems/algorithm/doomsday/">doomsday</a></th>
