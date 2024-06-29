@@ -11,7 +11,7 @@
 - ***Advanced Topics I***   `15 problems`
 - ***Advanced Topics II***  `10 problems`
 
-## LeetCode - Array I `15 problems`
+## LeetCode - Array I
 
 <table>
     <head>
@@ -54,7 +54,7 @@
     </tbody>
 </table>
 
-## LeetCode - Array II `15 problems`
+## LeetCode - Array II
 
 <table>
     <head>
@@ -97,7 +97,7 @@
     </tbody>
 </table>
 
-## LeetCode - Linked List `15 problems`
+## LeetCode - Linked List
 
 <table>
     <head>
@@ -144,7 +144,7 @@
     </tbody>
 </table>
 
-## LeetCode - Stack I `15 problems`
+## LeetCode - Stack I
 
 <table>
     <head>
@@ -191,7 +191,7 @@
     </tbody>
 </table>
 
-## LeetCode - Stack II `15 problems`
+## LeetCode - Stack II
 
 <table>
     <head>
@@ -234,7 +234,7 @@
     </tbody>
 </table>
 
-## LeetCode - Queue and Dequeue `20 problems`
+## LeetCode - Queue and Dequeue
 
 <table>
     <head>
@@ -289,7 +289,7 @@
     </tbody>
 </table>
 
-## LeetCode - Advanced Topics I `15 problems`
+## LeetCode - Advanced Topics I
 
 <table>
     <head>
@@ -332,7 +332,7 @@
     </tbody>
 </table>
 
-## LeetCode - Advanced Topics II `10 problems`
+## LeetCode - Advanced Topics II
 
 <table>
     <head>
