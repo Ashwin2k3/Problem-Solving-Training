@@ -7,9 +7,17 @@
 - ***Dynamic Programming III***      `20 problems`
 - ***Dynamic Programming IV***       `20 problems`
 
-## LeetCode - Dynamic Programming I `20 problems`
+## LeetCode - Dynamic Programming I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/divisor-game/">divisor game</a></th>
@@ -54,9 +62,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming II `20 problems`
+## LeetCode - Dynamic Programming II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-score-triangulation-of-polygon/">minimum score triangulation of polygon</a></th>
@@ -101,9 +117,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming III `20 problems`
+## LeetCode - Dynamic Programming III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/soup-servings/">soup servings</a></th>
@@ -143,9 +167,17 @@
     </tbody>
 </table>
 
-## LeetCode - Dynamic Programming IV `20 problems`
+## LeetCode - Dynamic Programming IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/longest-palindromic-subsequence/">longest palindromic subsequence</a></th>
