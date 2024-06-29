@@ -14,6 +14,14 @@
 ## LeetCode - Binary Tree I `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/n-ary-tree-preorder-traversal/">n ary tree preorder traversal</a></th>
@@ -61,6 +69,14 @@
 ## LeetCode - Binary Tree II `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-average-subtree/">maximum average subtree</a></th>
@@ -108,6 +124,14 @@
 ## LeetCode - Binary Tree III `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/find-duplicate-subtrees/">find duplicate subtrees</a></th>
@@ -155,6 +179,14 @@
 ## LeetCode - Heap Tree `10 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/super-ugly-number/">super ugly number</a></th>
@@ -186,6 +218,14 @@
 ## LeetCode - Hash Table I `10 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/design-hashset/">design hashset</a></th>
@@ -216,6 +256,14 @@
 ## LeetCode - Hash Table II `10 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-substrings-that-differ-by-one-character/">count substrings that differ by one character</a></th>
@@ -243,6 +291,14 @@
 ## LeetCode - Hash Table III `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-area-rectangle/">minimum area rectangle</a></th>
@@ -278,6 +334,14 @@
 ## LeetCode - Hash Table IV `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/prison-cells-after-n-days/">prison cells after n days</a></th>
