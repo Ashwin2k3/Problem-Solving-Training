@@ -7,9 +7,17 @@
 - ***Totient Function***               `10 problems`
 - ***Basics of String Manipulation***  `40 problems`
 
-## HackerEarth - Basic Number Theory `30 problems`
+## HackerEarth - Basic Number Theory
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess/">can you guess</a></th>
@@ -73,14 +81,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/is-it-finite-36fe70d5/">is it finite</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Primality Tests `30 problems`
+## HackerEarth - Primality Tests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/ultra-prime/">ultra prime</a></th>
@@ -140,14 +155,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">29</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/shweta-riddhima-and-their-happiness-b-5d887f21-8afc8d25/">shweta riddhima and their happiness b</a></th>
-<th align="center" width="50px">30</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Totient Function `10 problems`
+## HackerEarth - Totient Function
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/math/number-theory/totient-function/practice-problems/algorithm/monk-and-etf/">monk and etf</a></th>
@@ -168,9 +190,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Basics of String Manipulation `40 problems`
+## HackerEarth - Basics of String Manipulation
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/unique-subsequence-264057c9/">unique subsequence</a></th>
