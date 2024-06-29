@@ -7,9 +7,17 @@
 - ***Implementation III*** `25 problems`
 - ***Implementation IV***  `25 problems`
 
-## HackerEarth - Implementation I `25 problems`
+## HackerEarth - Implementation I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/power-failure/">power failure</a></th>
@@ -62,9 +70,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Implementation II `25 problems`
+## HackerEarth - Implementation II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/little-shino-and-coins-3/">little shino and coins 3</a></th>
@@ -121,9 +137,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Implementation III `25 problems`
+## HackerEarth - Implementation III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/only-even/">only even</a></th>
@@ -176,9 +200,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Implementation IV `25 problems`
+## HackerEarth - Implementation IV
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/gupta-chaturvedi-and-saxena-trilogy-a/">gupta chaturvedi and saxena trilogy a</a></th>
