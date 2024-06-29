@@ -11,6 +11,14 @@
 ## AtCoder - 2016-2017 Beginner Contests `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc064/tasks/abc064_a">Beginner Contest 64 A</a></th>
@@ -54,7 +62,6 @@
         </tr>
         <tr>
 <th align="center" width="50px">21</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc084/tasks/abc084_a">Beginner Contest 84 A</a></th>
-<th align="center" width="50px">22</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -62,6 +69,14 @@
 ## AtCoder - 2018-2019 Beginner Contests `30 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc117/tasks/abc117_a">Beginner Contest 117 A</a></th>
@@ -129,7 +144,6 @@
         </tr>
         <tr>
 <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc149/tasks/abc149_a">Beginner Contest 149 A</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
@@ -137,6 +151,14 @@
 ## AtCoder - 2020-2021 Beginner Contests `35 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc187/tasks/abc187_a">Beginner Contest 187 A</a></th>
@@ -212,6 +234,14 @@
 ## AtCoder - 2022 Beginner Contests `25 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc284/tasks/abc284_a">Beginner Contest 284 A</a></th>
@@ -270,6 +300,14 @@
 ## AtCoder - 2023 Beginner Contests `25 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc309/tasks/abc309_a">Beginner Contest 309 A</a></th>
