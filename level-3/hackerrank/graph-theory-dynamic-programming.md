@@ -10,9 +10,17 @@
 - ***Implementation I***            `10 problems`
 - ***Implementation II***           `10 problems`
 
-## HackerRank - Graph Theory I `15 problems`
+## HackerRank - Graph Theory I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/torque-and-development/problem">torque and development</a></th>
@@ -49,9 +57,17 @@
     </tbody>
 </table>
 
-## HackerRank - Graph Theory II `10 problems`
+## HackerRank - Graph Theory II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/journey-scheduling/problem">journey scheduling</a></th>
@@ -76,9 +92,17 @@
     </tbody>
 </table>
 
-## HackerRank - Greedy `15 problems`
+## HackerRank - Greedy
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem">minimum absolute difference in an array</a></th>
@@ -118,9 +142,17 @@
     </tbody>
 </table>
 
-## HackerRank - Dynamic Programming I `20 problems`
+## HackerRank - Dynamic Programming I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/coin-change/problem">coin change</a></th>
@@ -165,9 +197,17 @@
     </tbody>
 </table>
 
-## HackerRank - Dynamic Programming II `20 problems`
+## HackerRank - Dynamic Programming II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cuttree/problem">cuttree</a></th>
@@ -212,145 +252,79 @@
     </tbody>
 </table>
 
-## HackerEarth - Implementation I `10 problems`
+## HackerRank - Implementation I
 
 <table>
     <head>
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="600px">Keywords</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
         </tr>
     </head>
     <tbody>
         <tr>
-<th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/bigger-is-greater/problem">bigger is greater</a></th>
-<th align="left"></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bigger-is-greater/problem">bigger is greater</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/kaprekar-numbers/problem">kaprekar numbers</a></th>
         </tr>
         <tr>
-<th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/kaprekar-numbers/problem">kaprekar numbers</a></th>
-<th align="left"></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/beautiful-triplets/problem">beautiful triplets</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/flatland-space-stations/problem">flatland space stations</a></th>
         </tr>
         <tr>
-<th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/beautiful-triplets/problem">beautiful triplets</a></th>
-<th align="left"></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/fair-rations/problem">fair rations</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/cavity-map/problem">cavity map</a></th>
         </tr>
         <tr>
-<th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/flatland-space-stations/problem">flatland space stations</a></th>
-<th align="left"></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/manasa-and-stones/problem">manasa and stones</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-grid-search/problem">the grid search</a></th>
         </tr>
         <tr>
-<th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/fair-rations/problem">fair rations</a></th>
-<th align="left"></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/halloween-sale/problem">halloween sale</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/magic-square-forming/problem">magic square forming</a></th>
         </tr>
         <tr>
-<th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/cavity-map/problem">cavity map</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/manasa-and-stones/problem">manasa and stones</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/the-grid-search/problem">the grid search</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/halloween-sale/problem">halloween sale</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/magic-square-forming/problem">magic square forming</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/climbing-the-leaderboard/problem">climbing the leaderboard</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">12</th>
-<th align="left"><a href="https://hackerrank.com/challenges/extra-long-factorials/problem">extra long factorials</a></th>
-<th align="left"></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/climbing-the-leaderboard/problem">climbing the leaderboard</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/extra-long-factorials/problem">extra long factorials</a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Implementation II `10 problems`
+## HackerRank - Implementation II
 
 <table>
     <head>
         <tr>
 <th align="center">#</th>
 <th align="center" width="600px">Problem Title</th>
-<th align="center" width="600px">Keywords</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
         </tr>
     </head>
     <tbody>
         <tr>
-<th align="center">01</th>
-<th align="left"><a href="https://hackerrank.com/challenges/encryption/problem">encryption</a></th>
-<th align="left"></th>
+<th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/encryption/problem">encryption</a></th>
+<th align="center" width="50px">02</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/the-time-in-words/problem">the time in words</a></th>
         </tr>
         <tr>
-<th align="center">02</th>
-<th align="left"><a href="https://hackerrank.com/challenges/the-time-in-words/problem">the time in words</a></th>
-<th align="left"></th>
+<th align="center" width="50px">03</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/3d-surface-area/problem">3d surface area</a></th>
+<th align="center" width="50px">04</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/absolute-permutation/problem">absolute permutation</a></th>
         </tr>
         <tr>
-<th align="center">03</th>
-<th align="left"><a href="https://hackerrank.com/challenges/3d-surface-area/problem">3d surface area</a></th>
-<th align="left"></th>
+<th align="center" width="50px">05</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/bomber-man/problem">bomber man</a></th>
+<th align="center" width="50px">06</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/two-pluses/problem">two pluses</a></th>
         </tr>
         <tr>
-<th align="center">04</th>
-<th align="left"><a href="https://hackerrank.com/challenges/absolute-permutation/problem">absolute permutation</a></th>
-<th align="left"></th>
+<th align="center" width="50px">07</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/larrys-array/problem">larrys array</a></th>
+<th align="center" width="50px">08</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/almost-sorted/problem">almost sorted</a></th>
         </tr>
         <tr>
-<th align="center">05</th>
-<th align="left"><a href="https://hackerrank.com/challenges/bomber-man/problem">bomber man</a></th>
-<th align="left"></th>
+<th align="center" width="50px">09</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/non-divisible-subset/problem">non divisible subset</a></th>
+<th align="center" width="50px">10</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/queens-attack-2/problem">queens attack 2</a></th>
         </tr>
         <tr>
-<th align="center">06</th>
-<th align="left"><a href="https://hackerrank.com/challenges/two-pluses/problem">two pluses</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">07</th>
-<th align="left"><a href="https://hackerrank.com/challenges/larrys-array/problem">larrys array</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">08</th>
-<th align="left"><a href="https://hackerrank.com/challenges/almost-sorted/problem">almost sorted</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">09</th>
-<th align="left"><a href="https://hackerrank.com/challenges/non-divisible-subset/problem">non divisible subset</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">10</th>
-<th align="left"><a href="https://hackerrank.com/challenges/queens-attack-2/problem">queens attack 2</a></th>
-<th align="left"></th>
-        </tr>
-        <tr>
-<th align="center">11</th>
-<th align="left"><a href="https://hackerrank.com/challenges/organizing-containers-of-balls/problem">organizing containers of balls</a></th>
-<th align="left"></th>
+<th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/organizing-containers-of-balls/problem">organizing containers of balls</a></th>
         </tr>
     </tbody>
 </table>
