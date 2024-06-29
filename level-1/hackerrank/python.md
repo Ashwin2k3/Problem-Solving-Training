@@ -8,7 +8,7 @@
 - ***Functions and Libraries II***  `20 problems`
 - ***Classes***                     `10 problems`
 
-## HackerRank - Introduction `25 problems`
+## HackerRank - Introduction
 
 <table>
     <head>
@@ -75,7 +75,7 @@
     </tbody>
 </table>
 
-## HackerRank - Collections `25 problems`
+## HackerRank - Collections
 
 <table>
     <head>
@@ -142,7 +142,7 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries I `20 problems`
+## HackerRank - Functions and Libraries I
 
 <table>
     <head>
@@ -197,7 +197,7 @@
     </tbody>
 </table>
 
-## HackerRank - Functions and Libraries II `20 problems`
+## HackerRank - Functions and Libraries II
 
 <table>
     <head>
@@ -252,7 +252,7 @@
     </tbody>
 </table>
 
-## HackerRank - Classes `10 problems`
+## HackerRank - Classes
 
 <table>
     <head>
