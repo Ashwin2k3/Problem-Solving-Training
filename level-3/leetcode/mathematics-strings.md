@@ -9,9 +9,17 @@
 - ***String II***     `10 problems`
 - ***String III***    `10 problems`
 
-## LeetCode - Math I `15 problems`
+## LeetCode - Math I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/largest-triangle-area/">largest triangle area</a></th>
@@ -48,9 +56,17 @@
     </tbody>
 </table>
 
-## LeetCode - Math II `15 problems`
+## LeetCode - Math II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/rotated-digits/">rotated digits</a></th>
@@ -87,9 +103,17 @@
     </tbody>
 </table>
 
-## LeetCode - Math III `15 problems`
+## LeetCode - Math III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/multiply-strings/">multiply strings</a></th>
@@ -130,9 +154,17 @@
     </tbody>
 </table>
 
-## LeetCode - String I `10 problems`
+## LeetCode - String I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/">maximum product of the length of two palindromic substrings</a></th>
@@ -157,9 +189,17 @@
     </tbody>
 </table>
 
-## LeetCode - String II `10 problems`
+## LeetCode - String II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/">minimum length of string after deleting similar ends</a></th>
@@ -184,9 +224,17 @@
     </tbody>
 </table>
 
-## LeetCode - String III `10 problems`
+## LeetCode - String III
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shortest-palindrome/">shortest palindrome</a></th>
