@@ -12,6 +12,14 @@
 ## LeetCode - Binary Search `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">count negative numbers in a sorted matrix</a></th>
@@ -63,6 +71,14 @@
 ## LeetCode - Sorting I `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/shuffle-string/">shuffle string</a></th>
@@ -102,6 +118,14 @@
 ## LeetCode - Sorting II `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">widest vertical area between two points containing no points</a></th>
@@ -141,6 +165,14 @@
 ## LeetCode - Greedy I `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/">split a string in balanced strings</a></th>
@@ -192,6 +224,14 @@
 ## LeetCode - Greedy II `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/minimize-product-sum-of-two-arrays/">minimize product sum of two arrays</a></th>
@@ -243,6 +283,14 @@
 ## LeetCode - Greedy III `10 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/two-city-scheduling/">two city scheduling</a></th>
