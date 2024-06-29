@@ -11,7 +11,7 @@
 - ***Hash Table III***    `15 problems`
 - ***Hash Table IV***     `15 problems`
 
-## LeetCode - Binary Tree I `20 problems`
+## LeetCode - Binary Tree I
 
 <table>
     <head>
@@ -66,7 +66,7 @@
     </tbody>
 </table>
 
-## LeetCode - Binary Tree II `20 problems`
+## LeetCode - Binary Tree II
 
 <table>
     <head>
@@ -121,7 +121,7 @@
     </tbody>
 </table>
 
-## LeetCode - Binary Tree III `20 problems`
+## LeetCode - Binary Tree III
 
 <table>
     <head>
@@ -176,7 +176,7 @@
     </tbody>
 </table>
 
-## LeetCode - Heap Tree `10 problems`
+## LeetCode - Heap Tree
 
 <table>
     <head>
@@ -215,7 +215,7 @@
     </tbody>
 </table>
 
-## LeetCode - Hash Table I `10 problems`
+## LeetCode - Hash Table I
 
 <table>
     <head>
@@ -253,7 +253,7 @@
     </tbody>
 </table>
 
-## LeetCode - Hash Table II `10 problems`
+## LeetCode - Hash Table II
 
 <table>
     <head>
@@ -288,7 +288,7 @@
     </tbody>
 </table>
 
-## LeetCode - Hash Table III `15 problems`
+## LeetCode - Hash Table III
 
 <table>
     <head>
@@ -331,7 +331,7 @@
     </tbody>
 </table>
 
-## LeetCode - Hash Table IV `15 problems`
+## LeetCode - Hash Table IV
 
 <table>
     <head>
