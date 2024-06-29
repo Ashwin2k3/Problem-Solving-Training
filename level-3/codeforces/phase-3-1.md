@@ -11,9 +11,17 @@
 - ***Greedy and Brute Force***    `25 problems`
 - ***Dynamic Programming***       `10 problems`
 
-## Codeforces - Divide and Conquer `10 problems`
+## Codeforces - Divide and Conquer
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/978/problem/C">Round 481 C</a></th>
@@ -42,9 +50,17 @@
     </tbody>
 </table>
 
-## Codeforces - Graph `15 problems`
+## Codeforces - Graph
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/116/problem/C">Round 87 C</a></th>
@@ -72,14 +88,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://codeforces.com/contest/190/problem/C">Round 120 C</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## Codeforces - String `15 problems`
+## Codeforces - String
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/999/problem/C">Round 490 C</a></th>
@@ -112,9 +135,17 @@
     </tbody>
 </table>
 
-## Codeforces - Data Structure `20 problems`
+## Codeforces - Data Structure
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/197/problem/C">Round 124 C</a></th>
@@ -163,9 +194,17 @@
     </tbody>
 </table>
 
-## Codeforces - Math and Number Theory I `15 problems`
+## Codeforces - Math and Number Theory I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/804/problem/A">Round 411 C</a></th>
@@ -198,9 +237,17 @@
     </tbody>
 </table>
 
-## Codeforces - Math and Number Theory II `15 problems`
+## Codeforces - Math and Number Theory II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/112/problem/C">Round 85 C</a></th>
@@ -232,14 +279,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">15</th><th align="left" width="550px"><a href="https://codeforces.com/contest/150/problem/A">Round 107 C</a></th>
-<th align="center" width="50px">14</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## Codeforces - Greedy and Brute Force `25 problems`
+## Codeforces - Greedy and Brute Force
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1015/problem/C">Round 501 C</a></th>
@@ -292,9 +346,17 @@
     </tbody>
 </table>
 
-## Codeforces - Dynamic Programming `10 problems`
+## Codeforces - Dynamic Programming
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/871/problem/A">Round 440 C</a></th>
