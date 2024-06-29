@@ -8,9 +8,17 @@
 - ***Number Theory***                           `15 problems`
 - ***Combinatorics, Geometry, Probability***    `20 problems`
 
-## HackerRank - Greedy `10 problems`
+## HackerRank - Greedy
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/arithmetic-expressions/problem">Arithmetic Expressions</a></th>
@@ -39,9 +47,17 @@
     </tbody>
 </table>
 
-## HackerRank - Graph Theory `20 problems`
+## HackerRank - Graph Theory
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/value-of-friendship/problem">value of friendship</a></th>
@@ -86,9 +102,17 @@
     </tbody>
 </table>
 
-## HackerRank - Mathematics `15 problems`
+## HackerRank - Mathematics
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/sherlock-and-permutations/problem">Sherlock and Permutations</a></th>
@@ -128,9 +152,17 @@
     </tbody>
 </table>
 
-## HackerRank - Number Theory `15 problems`
+## HackerRank - Number Theory
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/littlepandapower/problem">littlepandapower</a></th>
@@ -171,9 +203,17 @@
     </tbody>
 </table>
 
-## HackerRank - Combinatorics, Geometry, Probability `20 problems`
+## HackerRank - Combinatorics, Geometry, Probability
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/mehta-and-the-typical-supermarket/problem">mehta and the typical supermarket</a></th>
