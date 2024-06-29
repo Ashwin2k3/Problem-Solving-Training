@@ -9,7 +9,7 @@
 - ***KickStart 2017***        `7 contests`
 - ***KickStart 2018***        `8 contests`
 
-## Google KickStart 2013 `3 contests`
+## Google KickStart 2013
 
 <table>
     <head>
@@ -38,7 +38,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2014 `4 contests`
+## Google KickStart 2014
 
 <table>
     <head>
@@ -72,7 +72,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2015 `6 contests`
+## Google KickStart 2015
 
 <table>
     <head>
@@ -116,7 +116,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2016 `5 contests`
+## Google KickStart 2016
 
 <table>
     <head>
@@ -155,7 +155,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2017 `7 contests`
+## Google KickStart 2017
 
 <table>
     <head>
@@ -204,7 +204,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2018 `8 contests`
+## Google KickStart 2018
 
 <table>
     <head>
