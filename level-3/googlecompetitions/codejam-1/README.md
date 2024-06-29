@@ -7,7 +7,7 @@
 - ***CodeJam Rounds 1B***        `8 contests`
 - ***CodeJam Rounds 1C***        `8 contests`
 
-## Google CodeJam Qualifications `8 contests`
+## Google CodeJam Qualifications
 
 <table>
     <head>
@@ -61,7 +61,7 @@
     </tbody>
 </table>
 
-## Google CodeJam Rounds 1A `8 contests`
+## Google CodeJam Rounds 1A
 
 <table>
     <head>
@@ -115,7 +115,7 @@
     </tbody>
 </table>
 
-## Google CodeJam Rounds 1B `8 contests`
+## Google CodeJam Rounds 1B
 
 <table>
     <head>
@@ -169,7 +169,7 @@
     </tbody>
 </table>
 
-## Google CodeJam Rounds 1C `8 contests`
+## Google CodeJam Rounds 1C
 
 <table>
     <head>
