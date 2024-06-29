@@ -7,7 +7,7 @@
 - ***Graph***                  `20 problems`
 - ***Backtracking***           `15 problems`
 
-## LeetCode - Breadth First Search `20 problems`
+## LeetCode - Breadth First Search
 
 <table>
     <head>
@@ -62,7 +62,7 @@
     </tbody>
 </table>
 
-## LeetCode - Depth First Search `20 problems`
+## LeetCode - Depth First Search
 
 <table>
     <head>
@@ -121,7 +121,7 @@
     </tbody>
 </table>
 
-## LeetCode - Graph `20 problems`
+## LeetCode - Graph
 
 <table>
     <head>
@@ -176,7 +176,7 @@
     </tbody>
 </table>
 
-## LeetCode - Backtracking `15 problems`
+## LeetCode - Backtracking
 
 <table>
     <head>
