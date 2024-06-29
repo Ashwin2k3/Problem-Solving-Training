@@ -14,6 +14,14 @@
 ## LeetCode - Array I `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/diagonal-traverse-ii/">diagonal traverse ii</a></th>
@@ -49,6 +57,14 @@
 ## LeetCode - Array II `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/friends-of-appropriate-ages/">friends of appropriate ages</a></th>
@@ -84,6 +100,14 @@
 ## LeetCode - Linked List `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/">convert binary number in a linked list to integer</a></th>
@@ -123,6 +147,14 @@
 ## LeetCode - Stack I `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-outermost-parentheses/">remove outermost parentheses</a></th>
@@ -162,6 +194,14 @@
 ## LeetCode - Stack II `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">remove all adjacent duplicates in string ii</a></th>
@@ -197,6 +237,14 @@
 ## LeetCode - Queue and Dequeue `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/moving-average-from-data-stream/">moving average from data stream</a></th>
@@ -244,6 +292,14 @@
 ## LeetCode - Advanced Topics I `15 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/">the earliest moment when everyone become friends</a></th>
@@ -279,6 +335,14 @@
 ## LeetCode - Advanced Topics II `10 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://leetcode.com/problems/k-th-symbol-in-grammar/">k th symbol in grammar</a></th>
