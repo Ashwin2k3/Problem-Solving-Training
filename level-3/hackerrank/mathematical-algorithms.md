@@ -10,9 +10,17 @@
 - ***Geometry***                    `15 problems`
 - ***Probability***                 `15 problems`
 
-## HackerRank - Number Theory I `15 problems`
+## HackerRank - Number Theory I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/eulers-criterion/problem">eulers criterion</a></th>
@@ -49,9 +57,17 @@
     </tbody>
 </table>
 
-## HackerRank - Number Theory II `15 problems`
+## HackerRank - Number Theory II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/lucy-and-flowers/problem">lucy and flowers</a></th>
@@ -84,9 +100,17 @@
     </tbody>
 </table>
 
-## HackerRank - Combinatorics `25 problems`
+## HackerRank - Combinatorics
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/a-chocolate-fiesta/problem">a chocolate fiesta</a></th>
@@ -143,9 +167,17 @@
     </tbody>
 </table>
 
-## HackerRank - Algebra I `15 problems`
+## HackerRank - Algebra I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/difference-and-product/problem">difference and product</a></th>
@@ -182,9 +214,17 @@
     </tbody>
 </table>
 
-## HackerRank - Algebra II `15 problems`
+## HackerRank - Algebra II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem">1 matrix subtraction</a></th>
@@ -220,9 +260,17 @@
     </tbody>
 </table>
 
-## HackerRank - Geometry `15 problems`
+## HackerRank - Geometry
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/points-on-a-line/problem">points on a line</a></th>
@@ -255,9 +303,17 @@
     </tbody>
 </table>
 
-## HackerRank - Probability `15 problems`
+## HackerRank - Probability
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerrank.com/challenges/random-number-generator/problem">random number generator</a></th>
