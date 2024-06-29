@@ -11,6 +11,14 @@
 ## AtCoder - 2016-2017 Beginner Contests `20 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc042/tasks/abc042_a">Beginner Contest 42 A</a></th>
@@ -62,6 +70,14 @@
 ## AtCoder - 2018-2019 Beginner Contests `30 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc085/tasks/abc085_a">Beginner Contest 85 A</a></th>
@@ -133,6 +149,14 @@
 ## AtCoder - 2020-2021 Beginner Contests `35 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc150/tasks/abc150_a">Beginner Contest 150 A</a></th>
@@ -212,6 +236,14 @@
 ## AtCoder - 2022 Beginner Contests `25 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc234/tasks/abc234_a">Beginner Contest 234 A</a></th>
@@ -270,6 +302,14 @@
 ## AtCoder - 2023 Beginner Contests `25 problems`
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://atcoder.jp/contests/abc259/tasks/abc259_a">Beginner Contest 259 A</a></th>
