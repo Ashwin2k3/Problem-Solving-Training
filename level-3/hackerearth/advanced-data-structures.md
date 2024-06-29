@@ -7,9 +7,17 @@
 - ***Segment Tree I***             `35 problems`
 - ***Segment Tree II***            `35 problems`
 
-## HackerEarth - Disjoint Sets `30 problems`
+## HackerEarth - Disjoint Sets
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/owl-fight/">owl fight</a></th>
@@ -73,14 +81,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">31</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/tri-state-area-58343781/">tri state area</a></th>
-<th align="center" width="50px">32</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Trie `25 problems`
+## HackerEarth - Trie
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/tries-78733022/">tries</a></th>
@@ -128,14 +143,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">23</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-sequence-aad3111f/">xor sequence</a></th>
-<th align="center" width="50px">24</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Segment Tree I `35 problems`
+## HackerEarth - Segment Tree I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/tree-query-3-5d98588f/">tree query 3</a></th>
@@ -203,14 +225,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/smart-city-ccfe8b99/">smart city</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Segment Tree II `35 problems`
+## HackerEarth - Segment Tree II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/joseph-and-treeaugclash/">joseph and treeaugclash</a></th>
@@ -282,7 +311,6 @@
         </tr>
         <tr>
 <th align="center" width="50px">35</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/super-power-of-2s-2/">super power of 2s 2</a></th>
-<th align="center" width="50px">36</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
