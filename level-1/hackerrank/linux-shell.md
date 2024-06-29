@@ -8,7 +8,7 @@
 - ***Arrays in Bash***      `10 problems`
 - ***Grep Sed Awk***        `15 problems`
 
-## HackerRank - Bash `10 problems`
+## HackerRank - Bash
 
 <table>
     <head>
@@ -46,7 +46,7 @@
     </tbody>
 </table>
 
-## HackerRank - Text Processing I `15 problems`
+## HackerRank - Text Processing I
 
 <table>
     <head>
@@ -93,7 +93,7 @@
     </tbody>
 </table>
 
-## HackerRank - Text Processing II `15 problems`
+## HackerRank - Text Processing II
 
 <table>
     <head>
@@ -140,7 +140,7 @@
     </tbody>
 </table>
 
-## HackerRank - Arrays in Bash `10 problems`
+## HackerRank - Arrays in Bash
 
 <table>
     <head>
@@ -171,7 +171,7 @@
     </tbody>
 </table>
 
-## HackerRank - Grep Sed Awk `15 problems`
+## HackerRank - Grep Sed Awk
 
 <table>
     <head>
