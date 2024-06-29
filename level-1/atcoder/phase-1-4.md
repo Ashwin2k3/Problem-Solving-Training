@@ -8,7 +8,7 @@
 - ***2022 Beginner Contests***           `25 problems`
 - ***2023 Beginner Contests***           `25 problems`
 
-## AtCoder - 2016-2017 Beginner Contests `20 problems`
+## AtCoder - 2016-2017 Beginner Contests
 
 <table>
     <head>
@@ -66,7 +66,7 @@
     </tbody>
 </table>
 
-## AtCoder - 2018-2019 Beginner Contests `30 problems`
+## AtCoder - 2018-2019 Beginner Contests
 
 <table>
     <head>
@@ -148,7 +148,7 @@
     </tbody>
 </table>
 
-## AtCoder - 2020-2021 Beginner Contests `35 problems`
+## AtCoder - 2020-2021 Beginner Contests
 
 <table>
     <head>
@@ -231,7 +231,7 @@
     </tbody>
 </table>
 
-## AtCoder - 2022 Beginner Contests `25 problems`
+## AtCoder - 2022 Beginner Contests
 
 <table>
     <head>
@@ -297,7 +297,7 @@
     </tbody>
 </table>
 
-## AtCoder - 2023 Beginner Contests `25 problems`
+## AtCoder - 2023 Beginner Contests
 
 <table>
     <head>
