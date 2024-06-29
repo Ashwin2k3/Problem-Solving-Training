@@ -9,7 +9,7 @@
 - ***Greedy II***              `20 problems`
 - ***Greedy III***             `10 problems`
 
-## LeetCode - Binary Search `20 problems`
+## LeetCode - Binary Search
 
 <table>
     <head>
@@ -68,7 +68,7 @@
     </tbody>
 </table>
 
-## LeetCode - Sorting I `15 problems`
+## LeetCode - Sorting I
 
 <table>
     <head>
@@ -115,7 +115,7 @@
     </tbody>
 </table>
 
-## LeetCode - Sorting II `15 problems`
+## LeetCode - Sorting II
 
 <table>
     <head>
@@ -162,7 +162,7 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy I `20 problems`
+## LeetCode - Greedy I
 
 <table>
     <head>
@@ -221,7 +221,7 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy II `20 problems`
+## LeetCode - Greedy II
 
 <table>
     <head>
@@ -280,7 +280,7 @@
     </tbody>
 </table>
 
-## LeetCode - Greedy III `10 problems`
+## LeetCode - Greedy III
 
 <table>
     <head>
