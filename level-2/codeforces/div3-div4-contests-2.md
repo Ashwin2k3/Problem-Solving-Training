@@ -6,9 +6,17 @@
 - ***Div3 Contests II***  `20 contests`
 - ***Div3 Contests III*** `20 contests`
 
-## Codeforces -  Div3 Contests I `20 contests`
+## Codeforces -  Div3 Contests I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1560">Round 739</a></th>
@@ -53,9 +61,17 @@
     </tbody>
 </table>
 
-## Codeforces -  Div3 Contests II `20 contests`
+## Codeforces -  Div3 Contests II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1790">Round 847</a></th>
@@ -99,9 +115,17 @@
     </tbody>
 </table>
 
-## Codeforces -  Div4 Contests `10 contests`
+## Codeforces -  Div4 Contests
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://codeforces.com/contest/1669">Round 784</a></th>
