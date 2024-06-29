@@ -7,7 +7,7 @@
 - ***KickStart 2021***        `8 contests`
 - ***KickStart 2022***        `11 contests`
 
-## Google KickStart 2019 `9 contests`
+## Google KickStart 2019
 
 <table>
     <head>
@@ -66,7 +66,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2020 `9 contests`
+## Google KickStart 2020
 
 <table>
     <head>
@@ -125,7 +125,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2021 `8 contests`
+## Google KickStart 2021
 
 <table>
     <head>
@@ -179,7 +179,7 @@
     </tbody>
 </table>
 
-## Google KickStart 2022 `11 contests`
+## Google KickStart 2022
 
 <table>
     <head>
