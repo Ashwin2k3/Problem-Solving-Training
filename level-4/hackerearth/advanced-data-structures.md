@@ -7,9 +7,17 @@
 - ***Binary Indexed Tree II***       `30 problems`
 - ***Suffix Tree and Suffix Array*** `20 problems`
 
-## HackerEarth - Segment Tree `30 problems`
+## HackerEarth - Segment Tree
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/yet-another-gcd-sum-problem-88b3e34a/">yet another gcd sum problem 88b3e34a</a></th>
@@ -77,14 +85,21 @@
         </tr>
         <tr>
 <th align="center" width="50px">33</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/repair-tree-339749d4/">repair tree</a></th>
-<th align="center" width="50px">34</th><th align="left" width="550px"><a href=""></a></th>
         </tr>
     </tbody>
 </table>
 
-## HackerEarth - Binary Indexed Tree I `30 problems`
+## HackerEarth - Binary Indexed Tree I
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/smallest-dividable-segment-82dc8519/">smallest dividable segment</a></th>
@@ -149,9 +164,17 @@
     </tbody>
 </table>
 
-## HackerEarth - Binary Indexed Tree II `30 problems`
+## HackerEarth - Binary Indexed Tree II
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/kth-element-2-7d970b44/">kth element 2</a></th>
@@ -216,9 +239,17 @@
     </tbody>
 </table>
 
-## HackerRank - Suffix Tree and Suffix Array `20 problems`
+## HackerRank - Suffix Tree and Suffix Array
 
 <table>
+    <head>
+        <tr>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+<th align="center">#</th>
+<th align="center" width="600px">Problem Title</th>
+        </tr>
+    </head>
     <tbody>
         <tr>
 <th align="center" width="50px">01</th><th align="left" width="550px"><a href="https://hackerearth.com/practice/data-structures/advanced-data-structures/suffix-trees/practice-problems/algorithm/employee-performance-1/">employee performance 1</a></th>
